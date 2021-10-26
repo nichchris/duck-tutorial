@@ -1,0 +1,21 @@
+What is version control?
+
+- Logging changes in files and structure
+
+How do we do this?
+
+GIT or git
+
+(THink google drive collaborations or Office 360)
+
+How do we do it?
+
+The hard way:
+
+using the terminal.
+- ver y hard, time consuming and convoluted.. For most people this is way to complicated.
+
+The easy way:
+
+Github desktop.
+
